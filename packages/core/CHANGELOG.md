@@ -1,5 +1,16 @@
 # @pandacss/core
 
+## 0.5.2
+
+### Patch Changes
+
+- b50675ca: Refactor parser to support extracting css prop in JSX elements correctly.
+  - @pandacss/token-dictionary@0.5.2
+  - @pandacss/error@0.5.2
+  - @pandacss/logger@0.5.2
+  - @pandacss/shared@0.5.2
+  - @pandacss/types@0.5.2
+
 ## 0.5.1
 
 ### Patch Changes

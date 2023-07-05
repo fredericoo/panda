@@ -1,5 +1,19 @@
 # @pandacss/generator
 
+## 0.5.2
+
+### Patch Changes
+
+- dc4e80f7: Export `isCssProperty` helper function from styled-system/jsx
+- b50675ca: Refactor parser to support extracting css prop in JSX elements correctly.
+- Updated dependencies [b50675ca]
+  - @pandacss/core@0.5.2
+  - @pandacss/token-dictionary@0.5.2
+  - @pandacss/is-valid-prop@0.5.2
+  - @pandacss/logger@0.5.2
+  - @pandacss/shared@0.5.2
+  - @pandacss/types@0.5.2
+
 ## 0.5.1
 
 ### Patch Changes
